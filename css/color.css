@@ -1,0 +1,375 @@
+/* ================================= */
+/* ---------- COUSTOM COLOR -------- */
+/* ================================= */
+.color_yellow{color:#fcae3b}
+.btn-light {
+  background: #fcae3b;
+}
+.form_button {
+  background: #fcae3b;
+  transition: color 1000ms ease 0s, background-color 1500ms ease 0s;
+}
+.media__body:after,
+.media__body:before {
+  border: 1px solid #fcae3b;
+}
+.topbar .booking {
+  background: #fcae3b;
+}
+.navbar-default .navbar-toggle {
+	/* background: #fcae3b; */
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	/* background-color: #fcae3b; */
+}
+.tp-tab:hover, .tp-tab.selected, .tp-thumb:hover, .tp-thumb.selected {
+  background: #fcae3b !important;
+}
+.tp-tab:hover .tp-tab-title > span, .tp-tab.selected .tp-tab-title > span {
+  color: #fcae3b;
+}
+.scrollup {
+  background: #fcae3b;
+}
+.scrollup:hover {
+    border: 1px solid #fcae3b;
+}
+.modal-center h2 {
+    color: #fcae3b;
+}
+.login-modal-btn {
+    background: #fcae3b;
+ }
+ .modal-heading {s
+    border-left: 5px solid #ffcd23;
+}
+.modal-title {
+    color: #fcae3b;
+}
+#btn-close-modal {
+    border: 1px solid #fcae3b;
+    color: #fcae3b;
+}
+#login .profile-login ul .active > a {
+	background:#fcae3b;
+}
+#login .profile-login .btn-slide {
+  background:#fcae3b;
+  transition: color 1000ms ease 0s, background-color 1500ms ease 0s;
+}
+#login .profile-login .lost-pass:hover{
+  color:#fcae3b;
+}
+.overlay-inner > h4 {
+  color: #fcae3b;
+}
+#header_six {
+  background: #fcae3b;
+}
+#popup_login .close {
+  background-color: #fcae3b;
+}
+.form-material .form-control {
+    border-bottom: 1px solid #fcae3b;
+}
+.form-material label {
+    color: #fcae3b;
+}
+.accordion .title a:hover,
+.accordion .title a[aria-expanded="true"] {
+    background: #fcae3b;
+}
+.cont_office .btn.btn-default.dropdown-toggle {
+  background: #fcae3b;
+}
+#header_top .cont_office .dropdown-menu > li > a:focus, 
+#header_top .cont_office .dropdown-menu > li > a:hover {
+  background-color: #fcae3b;
+}
+.get-tuch.text-left a:hover
+ {
+  color: #fcae3b;
+}
+.get-tuch.text-left .fa
+ {
+  color: #fcae3b;
+}
+#header_4 nav.navbar.bootsnav .share ul > li > a:hover{
+	background:#fcae3b;
+}
+#header_six .navbar-default .navbar-nav > .active > a, 
+#header_six .navbar-default .navbar-nav > .active > a:focus, 
+#header_six .navbar-default .navbar-nav > .active > a:hover {
+  background-color: #fcae3b;
+}
+#header_8 .logo {
+	background: #fcae3b;
+}
+#header_8 .logo:after{
+	background:#fcae3b url(../images/logo-bg.png) no-repeat;
+}
+#header_8 .logo:before {
+	background: #fcae3b;
+}
+#header_8 .quotes a {
+	background: #fcae3b;
+}
+#header_8 .top-info-con h6{
+    color: #fcae3b;
+}
+#header_9 .top_icon .fa {
+  color: #fcae3b;
+}
+#header_one .navbar-default .navbar-nav > li a:hover {
+	background-color: #fcae3b;
+}
+#header_one .navbar-default .navbar-nav > .active > a, #header_one .navbar-default .navbar-nav > .active > a:focus, #header_one .navbar-default .navbar-nav > .active > a:hover {
+	background-color: #fcae3b;
+}
+nav.navbar.bootsnav ul.nav li.megamenu-fw > a:hover, nav.navbar.bootsnav ul.nav li.megamenu-fw > a:focus, nav.navbar.bootsnav ul.nav li.active > a:hover, nav.navbar.bootsnav ul.nav li.active > a:focus, nav.navbar.bootsnav ul.nav li.active > a {
+  background-color: #fff;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+  background-color: #fff;
+  color: #000;
+}
+#header_4 nav.navbar.bootsnav .navbar-toggle {
+  background: #fcae3b !important;
+}
+.pushmenu{ 
+  border-top:5px solid #fcae3b;
+}
+.pushmenu .push_nav > li > a:hover, .pushmenu  .push_nav > li > a:focus, 
+.pushmenu .push_nav > li.active > a{
+	color:#fcae3b;
+}
+#header_7 .social-icons li {
+  border: 1px solid #fcae3b;
+}
+#header_9 .navbar-default .navbar-nav > .active > a, 
+#header_9 .navbar-default .navbar-nav > .active > a:focus, 
+#header_9 .navbar-default .navbar-nav > .active > a:hover {
+  background:#ffcd23;
+}
+.banner-button-1 {
+  background: #fcae3b;
+}
+.banner-button-1:hover {
+  color: #fcae3b;
+}
+.banner-button-2:hover {
+  background: #fcae3b;
+  color: #fff;
+}
+#main-slider .carousel .style {
+  color: #fcae3b;
+  border:1px solid #fcae3b;
+}
+#main-slider .carousel .style > span {
+  background: #fcae3b;
+}
+#main-slider .carousel .style > span > span {
+  border-color: transparent transparent transparent #fcae3b;
+}
+#main-slider .carousel .btn-slide:hover{
+  border-left:4px solid #fcae3b;
+}
+#main-slider .carousel .active.btn-slide.animation.animated-item-1 {
+  background: #fcae3b ;
+  border-left:4px solid #fcae3b;
+}
+#main-slider .prev:hover,
+#main-slider .next:hover {
+  background-color: #fcae3b;
+}
+#main-slider .carousel-indicators .active{
+  background-color: #fcae3b;
+   border: 1px solid #fcae3b ;
+}
+
+#main-slider .carousel-indicators .active:after {
+  background: #fcae3b;
+  border: 1px solid #fcae3b ;
+}
+#home_2 h4 {
+  color: #fcae3b;
+}
+.btn:hover {
+    color: #fcae3b;
+}
+.pur_button-white > a {
+  background: #fcae3b;
+}
+.pur_button-white > a:hover{
+  color: #ffcd23;
+}
+#about .btn-slide_about {
+	background:#fcae3b;
+}
+#about .btn-slide_about:hover {
+	background: #fcae3b;
+}
+.page-block h3 {
+  color: #fcae3b;
+}
+.icon-box .icon.icon-dark {
+	background-color: #fcae3b;
+}
+.icon-box .icon.icon-border-effect::after {
+	box-shadow: 0 0 0 3px #fcae3b;
+}
+.line1, .line2 {
+  background-color: #fcae3b;
+}
+.servicesone i {
+	background:#fcae3b;
+}
+.servicesone:hover i {
+  color: #fcae3b;
+}
+.btn-slide {
+  background: #fcae3b;
+}
+.owl-pagination .owl-page > span {
+  background: #fcae3b;
+ }
+ #tabs-section .about-us-box .about-us-post:hover a{
+	background:#fcae3b;
+}
+#tabs-section .about-us-box .about-us-post:hover h4{
+	color:#fcae3b;
+}
+.service-item .fa {
+  border: 1px solid #fcae3b;
+  color: #fcae3b;
+}
+.service-item:hover .fa {
+  background:#fcae3b;
+}
+.service-item:hover h3 {
+  color: #fcae3b;
+}
+.features8:hover h3{
+	color:#fcae3b;
+}
+.row.servc {
+  background: #fcae3b;
+}
+.index1-services-box:hover{
+	background:#fcae3b;
+	transition: all 0.5s ease 0s;
+}
+#services_index1 .owl-next:hover, #services_index1 .owl-prev:hover {
+  color: #fcae3b;
+}
+#index7_services {
+  background: #fcae3b;
+}
+#project_index .services:hover h3 {
+  color: #fcae3b;
+}
+.services:hover span {
+  background: #fcae3b;
+  border: 1px solid #fcae3b;
+}
+.services:hover a {
+  border-bottom: 1px solid #fcae3b;
+  color: #fcae3b;
+}
+.services:hover h3 {
+  color: #fcae3b;
+}
+#project_index .services:hover a {
+  border-bottom: 1px solid #fcae3b;
+  color: #fcae3b;
+}
+#purchase {
+  background: #fcae3b;
+}
+.work-filter ul li a:hover, .work-filter ul li a.active {
+	background-color: #fcae3b;
+	border: 1px dotted #fcae3b;
+}
+.overlay {
+	color: #fcae3b !important;
+}
+.overlay .line, .product-content .line {
+	background-color: #fcae3b;
+}
+
+.cbp-l-filters-alignRight .cbp-filter-item.cbp-filter-item-active,
+.cbp-l-filters-alignRight .cbp-filter-item:hover, .cbp-l-filters-alignRight .cbp-filter-item:focus{
+	color:#fcae3b;
+}
+.cbp-l-filters-alignRight .cbp-filter-item:before{
+  color:#fcae3b;
+ }
+ .overlay .opens{
+	background:#fcae3b;
+}
+.circle-user {
+    border: 3px solid #fcae3b;
+    color: #fcae3b;
+}
+.circle-user i {
+    background: #ffcd23;
+}
+#index1-chose .chose_box i {
+  background: #fcae3b;
+ }
+ #index1-chose .chose_box:hover {
+	background:#fcae3b;
+}
+#index1-chose .chose_box:hover i{
+	color: #fcae3b;
+}
+.gallery-section .slide-item{
+	border:1px solid #fcae3b;		
+}
+.gallery-section .item-caption{
+	border-top:2px solid #fcae3b;
+}
+.slide-item .item-caption h4 strong {
+  color: #fcae3b;
+}
+.gallery-section .owl-next:hover, 
+.gallery-section .owl-prev:hover, 
+#our-agent-slider .owl-prev:hover, 
+#our-agent-slider .owl-next:hover{
+  background: #fcae3b;
+}
+#our-agent .team_text {
+  border-top: 4px solid #fcae3b;
+}
+.team_popup .progress-bar {
+  background-color: #fcae3b;
+}
+#our-agent-slider .item:hover .team_text {
+  background: #fcae3b;
+}
+ #index1-conatcat .index1_adress .fa {
+  color:#fcae3b;
+}
+#index1-conatcat .index1_adress a:hover {
+  color:#fcae3b;
+}#index1-conatcat .index1_adress a:hover {
+  color:#fcae3b;
+}
+.footer_link > li > a:hover{
+  color: #fcae3b;
+}
+.social-icons li {
+  background: #fcae3b;
+}
+.social-icons li:hover a {
+  color: #fcae3b;
+}
+.header_5 nav.navbar.bootsnav .navbar-toggle {
+  background: #fcae3b !important;
+ }
+/* ================================= */
+/* -------- COUSTOM COLOR RGBA ----- */
+/* ================================= */
+.servicesone:hover i {
+  box-shadow: 0 0 0 5px rgba(255, 205, 35, 0.8) inset;
+}
